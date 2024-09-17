@@ -160,7 +160,7 @@
       padding: 10px;
       border: none;
       border-radius: 5px;
-      background: #000;
+      background: #ff5733;
       font-size: 20px;
       font-weight: 900;
       color: #FFFFFF;
