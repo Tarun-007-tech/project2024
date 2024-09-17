@@ -94,7 +94,7 @@
       .item i, input[type="date"]::-webkit-calendar-picker-indicator {
       position: absolute;
       font-size: 40px;
-      color: #a9a9a9;
+      color: #ff5733;
       }
       .item i {
       right: 2%;
